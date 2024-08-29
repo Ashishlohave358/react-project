@@ -1,0 +1,31 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 10px;
+    height:"500px";
+    width: 250px;
+   justify-content: space-around;
+    padding: 5px;
+    margin-bottom:30px;
+    margin-top: 20px;
+  }
+  
+  img {
+    
+    height: 150px;
+    width: 150px;
+  }
+  
+  button {
+    background-color: rgb(15, 16, 16);
+    margin-bottom: 10px;
+  }
+  
+  .outer {
+    display: flex;
+    flex-direction: row;
+    border: 2px;
+    justify-content: space-around;
+  }
+  
